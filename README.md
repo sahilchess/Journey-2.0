@@ -1,7 +1,6 @@
-# YSWSs
+# Journey-2.0
 
-### [I will make a ton of YSWSs and misc projects. I aim to make 1 per 2-3 sessions.](https://github.com/sahilchess/YSWSs)
-
+### I will create the grub website and the Toni theme and combine them.
 
 ## Current Goals
 
