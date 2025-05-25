@@ -1,8 +1,4 @@
-# Journey-2.0
+# boba-and-beverages
 
-### I will create the grub website and the Toni theme and combine them.
-
-## Current Goals
-
-- [x] Grub
-- [ ] Tonic
+website for grub......
+from replit, thats why all the commits are like that.
